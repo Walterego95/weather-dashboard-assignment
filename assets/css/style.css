@@ -153,9 +153,9 @@ root {
   
   /** all cards with same styling **/
   
-  #dayOne,
-  #dayTwo,
-  #dayThree,
+  #dayuan,
+  #dayToo,
+  #dayTree,
   #dayFour,
   #dayFive {
     margin: .75rem 0 .5rem 2rem;
